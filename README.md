@@ -8,4 +8,4 @@ Watch a video showing the process here: https://youtu.be/efnluUK_w_U
 +
 To run this project follow the following steps:
 1. Clone the repository: 
-```git clone https://github.com/davidbombal/log4jminecraft.git```
+```git clone https://github.com/MANISH64CHAUDHARY/log4jminecraft.git```
