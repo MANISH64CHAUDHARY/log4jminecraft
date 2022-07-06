@@ -9,3 +9,4 @@ Watch a video showing the process here: https://youtu.be/efnluUK_w_U
 To run this project follow the following steps:
 1. Clone the repository: 
 ```git clone https://github.com/MANISH64CHAUDHARY/log4jminecraft.git```
+3. Run the script log4j.py (```python3 log4j.py <ip_address>``` i.e. ```python3 log4j.py 192.168.1.132```). This installs the prerequisite software, and also starts up the LDAP server.
