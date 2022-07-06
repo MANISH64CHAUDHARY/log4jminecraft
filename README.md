@@ -15,3 +15,4 @@ To run this project follow the following steps:
 # Acknowledgement for contributions: 
 * John Hammond : https://youtu.be/7qoPDq41xhQ
 * Moritz Bechler (For creating the Java Unmarshaller Security - MarshalSec) : https://github.com/mbechler/marshalsec
+* xiajun325 for clear instruction on how to use the MarshalSec tool : https://github.com/xiajun325/apache-log4j-rce-poc
